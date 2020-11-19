@@ -5,10 +5,10 @@ L’objectif  est  de  permettre  aux  citoyens  de  demain  d’approcher  des 
 ## Fonctionnement basé sur la théorie des jeux.
 
 ### Le joueur peut choisir de :
-- coopérer
-- Trahire
+- Coopérer
+- Trahir
 
-__Parmis ces deux choix il devra trouver la  meilleure [stratégie](https://fr.wikipedia.org/wiki/Théorie_des_jeux) gagnante !__
+__Parmi ces deux choix, le joueur devra trouver la  meilleure [stratégie](https://fr.wikipedia.org/wiki/Théorie_des_jeux) gagnante !__
 
 
 
@@ -18,4 +18,4 @@ __[Lien  Wiki](https://github.com/thirax/Projet-WSDB/wiki)__
 
 
 ## Prérequis:
-java  liberika  => [Lien JDK](https://bell-sw.com/pages/java-13.0.1/)
+Java  Liberica  => [Lien JDK](https://bell-sw.com/pages/java-13.0.1/)
